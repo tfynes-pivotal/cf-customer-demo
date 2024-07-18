@@ -1,0 +1,6 @@
+---
+applications:
+- name: cp
+  path: ./target/customer-profile-0.0.1-SNAPSHOT.jar
+  services:
+  - customer-database
